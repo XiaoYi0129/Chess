@@ -1,0 +1,10 @@
+RNBQKBNR
+PPP_PPPP
+________
+___p____
+________
+________
+pppp_ppp
+rnbqkbnr
+B
+[WP64-N_44, BP13-N_33, WP44XBP33]
